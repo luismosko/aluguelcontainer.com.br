@@ -1,0 +1,17 @@
+# URLs prováveis do antigo WordPress -> páginas novas (301)
+/home                    /                                   301
+/servicos                /                                   301
+/servicos/*              /                                   301
+/sobre-nos               /sobre                              301
+/quem-somos              /sobre                              301
+/fale-conosco            /contato                            301
+/container-escritorio    /aluguel-de-container-escritorio    301
+/container-escritorio/*  /aluguel-de-container-escritorio    301
+/container-almoxarifado  /aluguel-de-container-almoxarifado  301
+/container-para-obra     /aluguel-de-container-para-obra     301
+/container-banheiro      /aluguel-de-container-banheiro      301
+/container-alojamento    /aluguel-de-container-alojamento    301
+/container-maritimo      /aluguel-de-container-maritimo      301
+/venda                   /venda-de-container                 301
+/wp-admin/*              /                                   301
+/wp-login.php            /                                   301
